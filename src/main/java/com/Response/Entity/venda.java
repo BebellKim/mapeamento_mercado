@@ -2,8 +2,6 @@ package com.Response.Entity;
 
 import java.util.Date;
 
-import com.Response.cliente;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

@@ -1,6 +1,4 @@
-package com.Response;
-
-import com.Response.Entity.venda;
+package com.Response.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
